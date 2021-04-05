@@ -1,0 +1,61 @@
+{
+  "problems": [
+    {
+      "path": "semana1/CR-2020-Festin-en-el-super"
+    },
+    {
+      "path": "semana1/CR-2020-Estudiando-en-linea"
+    },
+    {
+      "path": "semana1/CR-2020-Dando-promedios"
+    },
+    {
+      "path": "semana1/CR-2020-Bonitos-papalotes"
+    },
+    {
+      "path": "semana1/CR-2020-A-presentarse"
+    },
+    {
+      "path": "semana1/CR-2020-C-minario-de-Titulacion"
+    },
+    {
+      "path": "semana2/CR-2020-Frijolitos"
+    },
+    {
+      "path": "semana2/CR-2020-Brillantes-tweets"
+    },
+    {
+      "path": "semana2/CR-2020-Descubriendo-al-impostor"
+    },
+    {
+      "path": "semana2/CR-2020-Clasificando-mascotas"
+    },
+    {
+      "path": "semana2/CR-2020-Escogiendo-pasteleria"
+    },
+    {
+      "path": "semana2/CR-2020-Al-fin-nos-graduamos"
+    },
+    {
+      "path": "semana3/CR-2020-A-jugar-boliche"
+    },
+    {
+      "path": "semana3/CR-2020-Banda-musical"
+    },
+    {
+      "path": "semana3/CR-2020-Descifrando-mensajes"
+    },
+    {
+      "path": "semana3/CR-2020-Contando-horas"
+    },
+    {
+      "path": "semana3/CR-2020-Encuestas"
+    },
+    {
+      "path": "semana3/CR-2020-Filtrando-candidatos"
+    },
+    {
+      "path": "semana3/CR-2020-Gatecos"
+    }
+  ]
+}
