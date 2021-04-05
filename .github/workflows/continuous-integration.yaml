@@ -15,20 +15,20 @@ jobs:
     steps:
     - name: Set base commit (pull request)
       run: |
-        echo "::set-env name=GITHUB_BASE_COMMIT::${{ github.event.pull_request.base.sha }}"
-        echo "::set-env name=GITHUB_CURRENT_COMMIT::${{ github.event.pull_request.head.sha }}"
-      if: github.ref != 'refs/heads/master'
+        echo "GITHUB_BASE_COMMIT=${{ github.event.pull_request.base.sha }}" >> $GITHUB_ENV
+        echo "GITHUB_CURRENT_COMMIT=${{ github.event.pull_request.head.sha }}" >> $GITHUB_ENV
+      if: github.ref != 'refs/heads/main'
 
-    - name: Set base commit (master)
+    - name: Set base commit (main)
       run: |
-        echo "::set-env name=GITHUB_BASE_COMMIT::${{ github.event.before }}"
-        echo "::set-env name=GITHUB_CURRENT_COMMIT::${{ github.event.after }}"
-      if: github.ref == 'refs/heads/master'
+        echo "GITHUB_BASE_COMMIT=${{ github.event.before }}" >> $GITHUB_ENV
+        echo "GITHUB_CURRENT_COMMIT=${{ github.event.after }}" >> $GITHUB_ENV
+      if: github.ref == 'refs/heads/main'
 
     - name: Set up environment
       run: |
         git config --global core.quotePath false
-        echo "::set-env name=PIPENV_PIPFILE::$(pwd)/utils/Pipfile"
+        echo "PIPENV_PIPFILE=$(pwd)/utils/Pipfile" >> $GITHUB_ENV
     - name: Set up Python
       uses: actions/setup-python@v1
       with:
