@@ -1,1 +1,0 @@
-print('Pedir por Rappi')
