@@ -24,7 +24,7 @@ sample2
 
 # Límites
 
-- $1 \leq n \leq 10^18$
+- $1 \leq n \leq 10^10$
 
 <details><summary>Checa la `plantilla.py`</summary>
 
