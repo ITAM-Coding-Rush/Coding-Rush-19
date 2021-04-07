@@ -1,0 +1,23 @@
+{
+  "solutions": [
+    {
+      "filename": "../solutions/solution.py",
+      "verdict": "AC"
+    },
+    {
+      "filename": "../solutions/90.py",
+      "score_range": [0.9, 0.9]
+    },
+    {
+      "filename": "../solutions/es-perfecto.py",
+      "score_range": [0, 0]
+    },
+    {
+      "filename": "../solutions/no-es-perfecto.py",
+      "score_range": [0, 0]
+    }
+  ],
+  "inputs": {
+    "filename": "test-validator.py"
+  }
+}
