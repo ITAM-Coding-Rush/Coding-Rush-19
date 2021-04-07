@@ -1,10 +1,10 @@
 # Descripción
 
-Sebastián tienen una afición sobrehumana con los números. En particular, le apasionan los *números perfectos*.
+Sebastián tienen una afición sobrehumana con los números. En particular, le apasionan los _números perfectos_.
 
 Un número perfecto es aquél en el que la suma de sus divisores positivos (sin incluirse a sí mismo) da como resultado el mismo número. Por ejemplo, el número $28$ es un número perfecto, pues $28 = 1 + 2 + 4 + 7 + 14$.
 
-Dada la existencia de tantos números y el tiempo limitado de Sebastián (también llamado _flojera_), necesita un programa que al ingresar un número entero  positivo y le indique si es o no un número perfecto.
+Dada la existencia de tantos números y el tiempo limitado de Sebastián (también llamado _flojera_), necesita un programa que al ingresar un número entero positivo y le indique si es o no un número perfecto.
 
 # Entrada
 
@@ -24,7 +24,7 @@ sample2
 
 # Límites
 
-+ $1 \leq n \leq 10^18$
+- $1 \leq n \leq 10^18$
 
 <details><summary>Checa la `plantilla.py`</summary>
 
