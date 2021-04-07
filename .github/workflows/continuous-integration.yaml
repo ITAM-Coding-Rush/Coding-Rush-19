@@ -17,13 +17,13 @@ jobs:
       run: |
         echo "GITHUB_BASE_COMMIT=${{ github.event.pull_request.base.sha }}" >> $GITHUB_ENV
         echo "GITHUB_CURRENT_COMMIT=${{ github.event.pull_request.head.sha }}" >> $GITHUB_ENV
-      if: github.ref != 'refs/heads/main'
+      if: github.ref != 'refs/heads/master'
 
-    - name: Set base commit (main)
+    - name: Set base commit (master)
       run: |
         echo "GITHUB_BASE_COMMIT=${{ github.event.before }}" >> $GITHUB_ENV
         echo "GITHUB_CURRENT_COMMIT=${{ github.event.after }}" >> $GITHUB_ENV
-      if: github.ref == 'refs/heads/main'
+      if: github.ref == 'refs/heads/master'
 
     - name: Set up environment
       run: |
@@ -62,11 +62,11 @@ jobs:
 
     - name: Generate pngs/testplan
       run: python3 ./utils/generateresources.py --generate=png,testplan ${{ env.CI_FLAGS }}
-      if: github.ref == 'refs/heads/main'
+      if: github.ref == 'refs/heads/master'
 
     - name: Deploy to omegaUp
       run: pipenv run python3 ./utils/upload.py --ci --verbose  # Don't use CI_FLAGS to avoid deploying all problems.
-      if: github.ref == 'refs/heads/main'
+      if: github.ref == 'refs/heads/master'
 
 
     #- name: Push to public branch
