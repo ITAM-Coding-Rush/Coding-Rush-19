@@ -12,7 +12,7 @@ La casa de Fernando se encuentra en la coordenada $(0, 0)$.
 
 En la primera línea, un número entero $n$ que representa el número de tiendas a su alrededor.
 
-En las siguientes $2*n$ líneas vendrán parejas de enteros $x_i$ y $y_i$ que representa la coordenada de la $i$-ésima tienda.
+En las siguientes $2n$ líneas vendrán parejas de enteros $x_i$ y $y_i$ que representa la coordenada de la $i$-ésima tienda.
 
 # Salida
 
@@ -33,7 +33,7 @@ La tienda más cercana es la que se encuenta en la posición $(0, 1)$, con una d
 
 La tienda más lejana es la que se encuentra en la posición $(0, 31)$ con una distancia de 31.
 
-La distancia entre la tienda más cercana y la más lejana es entonces de $\sqrt{(0 - 0)^2 + (31 - 1)^2} = 2$.
+La distancia entre la tienda más cercana y la más lejana es entonces de $\sqrt{(0 - 0)^2 + (31 - 1)^2} = 30km$.
 
 Finalmente, Fernando recorrería esos 30km en exactamente 1 hora.
 
