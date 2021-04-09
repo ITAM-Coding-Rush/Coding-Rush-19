@@ -1,6 +1,9 @@
 # ¿Qué valor debe tener inicialmente la variable total?
 total = 
 
+# Cómo guardamos cuántas monedas de diferentes denominaciones tiene Bruno?
+monedas = 
+
 # ¿Cómo repetimos tres veces?
 for 
   # ¿Cómo obtenemos datos enteros del usuario?

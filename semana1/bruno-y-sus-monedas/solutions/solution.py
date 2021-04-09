@@ -1,5 +1,8 @@
 total = 0
-for i in range(3):
+
+monedas = int(input())
+
+for i in range(monedas):
   denominacion = int(input())
   cantidad = int(input()) 
   total += denominacion * cantidad
