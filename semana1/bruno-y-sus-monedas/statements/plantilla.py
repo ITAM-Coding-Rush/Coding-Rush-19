@@ -8,7 +8,7 @@ for
   cantidad = 
   # Te aseguro que una sola línea puedes escribir la operación pertinente para calcular el total.
   # PISTA: Utiliza el operador += para facilitarte las cuentas.
-  total += denominacion * cantidad
+  total 
 
 #¿Cómo imprimes valores numéricos?
 print()

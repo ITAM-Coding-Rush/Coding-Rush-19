@@ -20,6 +20,10 @@ Imprimirás el total de dinero que tiene Bruno.
 10
 ||output
 45
+||description
+Tenemos 3 monedas de $5, 1 moneda de $10 y 10 monedas de $2.
+Por lo que se tiene en total $45.
+||end
 
 *En este ejemplo, en la entrada estamos diciendo que tenemos 3 monedas de $5, 1 moneda de $10 y 10 monedas de $2.*
 
