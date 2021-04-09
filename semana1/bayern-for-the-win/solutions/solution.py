@@ -7,10 +7,10 @@ GP = P1 + P2
 GR = R1 + R2
 
 if GP > GR:
-  print("Gana Porto")
+  print("Gana Bayern")
   
 if GP < GR:
-  print("Pierde Porto")
+  print("Pierde Bayern")
   
 if GP == GR:
   print("ChinChanPu")
