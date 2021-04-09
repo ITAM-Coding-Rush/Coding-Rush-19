@@ -1,8 +1,8 @@
 #leer las entradas del problema
-P1 = 
+B1 = 
 R1 = 
 R2 = 
-P2 = 
+B2 = 
 
 #Puedes definir alguna variable extra..
 

@@ -1,16 +1,16 @@
-P1 = int(input())
+B1 = int(input())
 R1 = int(input())
 R2 = int(input())
-P2 = int(input())
+B2 = int(input())
 
-GP = P1 + P2
+GB = B1 + B2
 GR = R1 + R2
 
-if GP > GR:
+if GB > GR:
   print("Gana Bayern")
   
-if GP < GR:
+if GB < GR:
   print("Pierde Bayern")
   
-if GP == GR:
+if GB == GR:
   print("ChinChanPu")
