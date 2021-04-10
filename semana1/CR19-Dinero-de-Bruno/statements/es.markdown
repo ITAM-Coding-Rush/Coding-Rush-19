@@ -25,8 +25,8 @@ Imprimirás el total de dinero que tiene Bruno.
 46
 ||description
 Meteremos 4 pares de números.
-Tenemos 3 monedas de $5, 1 moneda de $10, 10 monedas de $2 y 1 moneda de $1.
-Por lo que se tiene en total $46.
+Tenemos 3 monedas de \$5, 1 moneda de \$10, 10 monedas de \$2 y 1 moneda de \$1.
+Por lo que se tiene en total \$46.
 ||end
 
 # Límites

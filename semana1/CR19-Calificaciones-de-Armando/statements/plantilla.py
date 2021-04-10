@@ -6,4 +6,4 @@ cal4 =
 cal5 = 
 #Operacion
 promedio =
-print()
+print(round(, 3))
