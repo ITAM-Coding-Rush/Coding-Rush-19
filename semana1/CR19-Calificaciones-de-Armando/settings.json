@@ -1,6 +1,6 @@
 {
-  "title": "El número perfecto",
-  "source": "Coding Rush Primavera 2021 (Sebastián Serra Peña + Juan Carlos Sigler Priego)",
+  "title": "Calificaciones de Armando",
+  "source": "Coding Rush Primavera 2021 (Lorena Mondragon)",
 
   "limits": {
     "TimeLimit": 1000,
@@ -17,7 +17,7 @@
     }
   },
   "misc": {
-    "alias": "dummy-cr",
+    "alias": "CR19-Calificaciones-de-Armando",
     "visibility": "private",
     "languages": "all",
     "email_clarifications": 0,

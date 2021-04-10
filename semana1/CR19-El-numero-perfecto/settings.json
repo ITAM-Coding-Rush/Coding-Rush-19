@@ -1,6 +1,6 @@
 {
-  "title": "Ayudando con el Super",
-  "source": "Coding Rush Primavera 2021 (Pau Garza)",
+  "title": "El número perfecto",
+  "source": "Coding Rush Primavera 2021 (Sebastián Serra Peña + Juan Carlos Sigler Priego)",
 
   "limits": {
     "TimeLimit": 1000,
@@ -17,7 +17,7 @@
     }
   },
   "misc": {
-    "alias": "dummy-cr",
+    "alias": "CR19-El-numero-perfecto",
     "visibility": "private",
     "languages": "all",
     "email_clarifications": 0,

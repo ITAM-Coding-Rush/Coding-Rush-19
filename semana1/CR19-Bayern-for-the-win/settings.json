@@ -1,6 +1,6 @@
 {
-  "title": "Desglose de calificaciones",
-  "source": "Coding Rush Primavera 2021 (Lorena Mondragon)",
+  "title": "Bayern for the win",
+  "source": "Coding Rush Primavera 2021 (José Manuel Martínez del Campo + Yosshua Eli Cisneros Villasana)",
 
   "limits": {
     "TimeLimit": 1000,
@@ -17,7 +17,7 @@
     }
   },
   "misc": {
-    "alias": "dummy-cr",
+    "alias": "CR19-Bayern-for-the-win",
     "visibility": "private",
     "languages": "all",
     "email_clarifications": 0,

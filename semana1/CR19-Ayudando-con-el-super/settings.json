@@ -1,6 +1,6 @@
 {
-  "title": "Las monedas de Bruno",
-  "source": "Coding Rush Primavera 2021 (Armando Limón)",
+  "title": "Ayudando con el Súper",
+  "source": "Coding Rush Primavera 2021 (Pau Garza)",
 
   "limits": {
     "TimeLimit": 1000,
@@ -17,7 +17,7 @@
     }
   },
   "misc": {
-    "alias": "dummy-cr",
+    "alias": "CR19-Ayudando-con-el-super",
     "visibility": "private",
     "languages": "all",
     "email_clarifications": 0,
