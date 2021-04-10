@@ -12,10 +12,16 @@ Un numero flotante que representa la cantidad de los artículos faltantes.
 
 # Ejemplo
 
-||examplefile
-sample
-||examplefile
-sample2
+||input
+510.7
+470.6         
+||output
+40.1 
+||input
+823.9
+768.5         
+||output
+55.4
 ||end
 
 <details><summary>Checa la `plantilla.py`</summary>

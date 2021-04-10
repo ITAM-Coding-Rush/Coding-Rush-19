@@ -23,10 +23,22 @@ Un número flotante que muestra el promedio de las calificaciones.
 # Ejemplo
 
 
-||examplefile
-sample
-||examplefile
-sample2
+||input
+9
+9.5
+8
+9
+9.8         
+||output
+8.995
+||input
+10
+8
+9.4
+8.2
+9.3         
+||output
+9.065
 ||end
 
 <details><summary>Checa la `plantilla.py`</summary>
