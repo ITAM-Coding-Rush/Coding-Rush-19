@@ -3,6 +3,22 @@
     {
       "filename": "../solutions/solution.py",
       "verdict": "AC"
+    },
+    {
+      "filename": "../solutions/B.py",
+      "verdict": "AC"
+    },
+    {
+      "filename": "../solutions/C.py",
+      "verdict": "AC"
+    },
+    {
+      "filename": "../solutions/D.py",
+      "verdict": "AC"
+    },
+    {
+      "filename": "../solutions/wrong.py",
+      "score_range": [0, 0.4]
     }
   ],
   "inputs": {
