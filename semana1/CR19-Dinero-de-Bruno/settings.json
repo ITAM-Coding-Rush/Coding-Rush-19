@@ -1,6 +1,6 @@
 {
-  "title": "Fernando el curioso",
-  "source": "Coding Rush Primavera 2021 (Emilio Cantú + Juan Carlos Sigler Priego)",
+  "title": "Dinero de Bruno",
+  "source": "Coding Rush Primavera 2021 (Armando Limón)",
 
   "limits": {
     "TimeLimit": 1000,
@@ -17,7 +17,7 @@
     }
   },
   "misc": {
-    "alias": "dummy-cr",
+    "alias": "CR19-Dinero-de-Bruno",
     "visibility": "private",
     "languages": "all",
     "email_clarifications": 0,

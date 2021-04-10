@@ -11,28 +11,19 @@ Un número entero $n$ que indique cuántas monedas y billetes tiene Bruno. Poste
 
 Imprimirás el total de dinero que tiene Bruno.
 
-||input
-4
-5
-3
-10
-1
-2
-10
-1
-1
-||output
-46
+||examplefile
 ||description
 Meteremos 4 pares de números.
-Tenemos 3 monedas de $5, 1 moneda de $10, 10 monedas de $2 y 1 moneda de $1.
-Por lo que se tiene en total $46.
+Tenemos 3 monedas de \$5, 1 moneda de \$10, 10 monedas de \$2 y 1 moneda de \$1.
+Por lo que se tiene en total \$46.
 ||end
 
 # Límites
-$1 <= monedas <= 100$
 
-<details>
-	<summary>Revisa la plantilla.</summary>
-	{{plantilla.py}}
+$1 \leq monedas \leq 100$
+
+<details><summary>Checa la `plantilla.py`</summary>
+
+{{plantilla.py}}
+
 </details>

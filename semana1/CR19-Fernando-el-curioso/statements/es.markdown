@@ -4,7 +4,7 @@ Fernando tiene localizadas varias tiendas a su alrededor donde puede ir a compra
 
 Siendo curioso, se pregunta cuánto tiempo le tomaría llegar desde la tienda más cercana de su casa a la más lejana de su casa.
 
-La distancia entre dos puntos $(x_1, y_1)$ y $(x_2, y_2)$ está dada por  $$\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$
+La distancia entre dos puntos $(x_1, y_1)$ y $(x_2, y_2)$ está dada por $$\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$
 
 La casa de Fernando se encuentra en la coordenada $(0, 0)$.
 

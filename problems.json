@@ -1,22 +1,22 @@
 {
   "problems": [
     {
-      "path": "semana1/el-numero-perfecto"
+      "path": "semana1/CR19-Ayudando-con-el-super"
     },
     {
-      "path": "semana1/fernando-el-curioso"
-    },    
-    {
-      "path": "semana1/ayudando-con-el-super"
-    },
-	  {
-	    "path": "semana1/desglose-de-calificaciones"	
+      "path": "semana1/CR19-Bayern-for-the-win"
     },
     {
-      "path": "semana1/bayern-for-the-win"
+      "path": "semana1/CR19-Calificaciones-de-Armando"
     },
     {
-      "path": "semana1/bruno-y-sus-monedas"
+      "path": "semana1/CR19-Dinero-de-Bruno"
+    },
+    {
+      "path": "semana1/CR19-El-numero-perfecto"
+    },
+    {
+      "path": "semana1/CR19-Fernando-el-curioso"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "title": "Bayern for the win",
-  "source": "Coding Rush Primavera 2021 (José Manuel Martínez del Campo + Yosshua Eli Cisneros Villasana)",
+  "title": "Fernando el curioso",
+  "source": "Coding Rush Primavera 2021 (Emilio Cantú + Juan Carlos Sigler Priego)",
 
   "limits": {
     "TimeLimit": 1000,
@@ -17,7 +17,7 @@
     }
   },
   "misc": {
-    "alias": "dummy-cr",
+    "alias": "CR19-Fernando-el-curioso",
     "visibility": "private",
     "languages": "all",
     "email_clarifications": 0,
