@@ -11,7 +11,7 @@
     "OverallWallTimeLimit": 60000
   },
   "validator": {
-    "name": "custom",
+    "name": "token-numeric",
     "limits": {
       "TimeLimit": 2000
     }

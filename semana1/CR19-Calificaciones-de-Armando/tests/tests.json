@@ -17,6 +17,10 @@
       "verdict": "AC"
     },
     {
+      "filename": "../solutions/E.py",
+      "verdict": "AC"
+    },
+    {
       "filename": "../solutions/wrong.py",
       "score_range": [0, 0.4]
     }
