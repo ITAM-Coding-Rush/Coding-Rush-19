@@ -1,0 +1,7 @@
+cal1 = float(input())
+cal2 = float(input())
+cal3 = float(input()) 
+cal4 = float(input())
+cal5 = float(input())
+promedio = (cal1 * .25 + cal2 * .25 + cal3 * .25 + cal4 * .1+ cal5 * .15)
+print(promedio)
