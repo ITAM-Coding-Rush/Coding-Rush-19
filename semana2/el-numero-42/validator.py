@@ -9,7 +9,7 @@ import math
 def _main():
   # lee "data.in" para obtener la entrada original.
   with open('data.in', 'r') as f:
-    s = [int(x) for x in f.read().strip().split()]
+    s = f.read().strip()
 
   score = 0
   try:
@@ -27,9 +27,14 @@ def _main():
 
     t = suma + prod
     t = sorted(t)
-    s = sorted(s)[:len(s)-1]
+    s = sorted(s)
 
-    if s != t:
+    for _ in range(7):
+      if len(t) > 0 and s[len(s)-1] == t[len(t)-1]:
+        t.pop()
+      s.pop()
+
+    if len(t) > 0:
         print('Los caracteres que usaste no coinciden', file=sys.stderr)
         return
 
