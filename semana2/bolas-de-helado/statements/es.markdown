@@ -10,7 +10,7 @@ Un número entero que respresenta los $n$ amigos de Andre. Seguido de $n$ entero
 
 # Salida
 
-Por cada número de bolas de helado debes imprimir una línea que indique el número de veces que apareció dicho dígito. Mira la salida de ejemplo para más detalles.
+Por cada número de bolas de helado debes imprimir una línea que indique el número de veces que se pidió esa cantidad de bolas. Mira la salida de ejemplo para más detalles.
 
 # Ejemplo
 
