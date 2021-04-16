@@ -1,9 +1,11 @@
 palabra = input()
-contL = 0
-contTotal = 0
-for i in palabra:
-  if i == "L":
-    contL += 1
-  if i == "A":
-    contTotal += contL
-print(str(contTotal))
+letraInicial = input()
+letraContar = input()
+cont = 0
+
+if palabra[0] == letraInicial:
+  for i in range(1, len(palabra)):
+    if palabra[i] == letraContar:
+      cont += 1
+
+print(cont)

@@ -1,17 +1,19 @@
-# ¿Cómo pides las palabras?
+# ¿Cómo pedimos letras o palabras?
 palabra = 
+letraInicial = 
+letraContar = 
 
-# Inicializas las variables.
-# contL es la variable que cuantas las sub-palabras que inician con la letra L.
-contL = 
-contTotal = 
+# ¿Cómo inicializamos una variable?
+cont = 
 
-# ¿Cómo recorrermos las cadenas de texto?
-for 
-  if
-    # Aquí colocas las instrucciones del primer IF
-  if
-    # Aquí colocas las instrucciones del segundo IF
+# ¿Qué condición se debe cumplir primero?
+if 
+  # Si no queremos contar la primer letra, ¿cómo la excluimos?
+  for 
+    # ¿Cómo sé que debo de contar la otra letra?
+    if
+      # ¿Cómo aumentamos un contador?
+      cont
 
-# Recuerda cómo imprimes valores numéricos
+# Imprime un número
 print()

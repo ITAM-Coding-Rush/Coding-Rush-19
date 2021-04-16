@@ -1,40 +1,44 @@
 # Descripción
-
-Lorena un día estaba sola en su casa y no tenía ganas de hacer tarea, ni quehacer, ni nada. Encontró un libro con sopas de letras para
-pasar el rato. Se le ocurrió la idea de contar cuántas palabras (aunque no tengan sentido) inician con L y terminan con A (escogió esas
-letras por su nombre) dentro de otra palabra. Por ejemplo, su nombre solo tiene 1 sub-palabra que es su mismo nombre; "LATA" tiene 2
-sub-palabras "LA" y "LATA".
+Lorena estaba tan aburrida que no tenía ganas de hacer nada, ni siquiera su tarea. Después de pasearse por su casa un buen rato,
+encontró un libro con sopas de letras para hacer. Cuando acabó de resolver uno de los sopas de letras se le ocurrió crear un
+programa que cuente la cantidad de veces que aparece una letra sí y sólo sí la palabra empieza por otra.
+Pero Lorena no se podía distraer de sus estudios y te pide ayuda para crear el programa.
 
 # Entrada
-Una cadena de texto escrita en mayúsculas.
+Cada paso es **UNA LÍNEA**.
+1. Una cadena de texto que será la palabra a revisar.
+2. Una letra que será el inicio de la palabra.
+3. Una letra que será la que contaremos.
+**NOTA: Debe considerarse que si la letra que contaremos es la misma que la inicial, ésta última no se contará.**
 
 # Salida
-Un número entero que diga la cantidad de sub-palabras que hay en la cadena ingresada.
+El número de veces que aparece la letra indicada en la palabra.
 
 # Ejemplo
 ||input
 LORENA
+L
+A
 ||output
 1
 ||description
-En este caso solo hay una sub-palabra que es la misma palabra. ||input
-LATA
-||output
-2
-||description
-Esta palabra tiene dos sub-palabras que son LA y LATA
+La inicial que queremos es la letra 'L' y la cantidad de 'A' que hay después de la 'L' solo es una.
 ||input
-LATINOAMERICA
-||output
-3
-||description
-Las tres sub-palabras son LA, LATINOA y LATINOAMERICA
-||input
-MALETA
+APUNTAR
+A
+A
 ||output
 1
 ||description
-La única sub-palabra es LETA
+No se considera la primer letra para el conteo. En este caso, después de la primer letra (que es una 'A'), sólo hay una 'A'.
+||input
+TRABAJO
+F
+A
+||output
+0
+||description
+Como la palabra no inicia con la letra 'F' no contará las letras 'A'.
 ||end
 
 <details>
