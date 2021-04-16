@@ -36,7 +36,7 @@ Tenemos la lista: crack (posición 0), bello (posición 1) y campeon (posición 
 # Límites
 
 * $1<= n <= 100000$
-* $1 <= p <= 100000$ 
+* $1 <= p <= 1000$ 
 
 <details><summary>Checa la `plantilla.py`</summary>
 

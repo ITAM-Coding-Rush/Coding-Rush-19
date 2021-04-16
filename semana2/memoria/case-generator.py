@@ -13,7 +13,7 @@ casos = 10
 for i in range(casos):
     MAXN = 100000 // ((casos - i))
     n = random.randint(1, MAXN)
-    p = random.randint(1, MAXN)
+    p = random.randint(1, 1000)
     A = [ ''.join(random.choice(string.ascii_lowercase) for i in range(10)) for j in range (n)]
     B = [random.randint(0, n-1) for i in range(p)]
 
