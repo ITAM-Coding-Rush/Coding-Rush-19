@@ -1,6 +1,6 @@
 {
-  "title": "El número 42",
-  "source": "Coding Rush Primavera 2021 (Emilio Cantú + Juan Carlos Sigler Priego)",
+  "title": "Buscando doses",
+  "source": "Coding Rush Primavera 2021 (Pau Garza)",
 
   "limits": {
     "TimeLimit": 1000,
@@ -11,13 +11,13 @@
     "OverallWallTimeLimit": 60000
   },
   "validator": {
-    "name": "custom",
+    "name": "token-caseless",
     "limits": {
       "TimeLimit": 1000
     }
   },
   "misc": {
-    "alias": "dummy-cr",
+    "alias": "CR19-Buscando-doses",
     "visibility": "private",
     "languages": "all",
     "email_clarifications": 0,

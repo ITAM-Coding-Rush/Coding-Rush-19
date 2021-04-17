@@ -1,6 +1,6 @@
 {
-  "title": "Memoria",
-  "source": "Coding Rush Primavera 2021 Carlos Delgado",
+  "title": "Dentro de palabras hay letras",
+  "source": "Coding Rush Primavera 2021 (Armando Limón)",
 
   "limits": {
     "TimeLimit": 1000,
@@ -17,7 +17,7 @@
     }
   },
   "misc": {
-    "alias": "dummy-cr",
+    "alias": "CR19-Dentro-de-palabras-letras",
     "visibility": "private",
     "languages": "all",
     "email_clarifications": 0,
