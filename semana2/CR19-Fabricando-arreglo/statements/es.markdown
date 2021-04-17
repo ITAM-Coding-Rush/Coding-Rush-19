@@ -12,7 +12,7 @@ En la primera línea un entero $n$, la cantidad de elementos de los arreglos $A$
 
 En las siguientes $n$ líneas vendrán los enteros $a_i$ que conforman el arreglo $A$.
 
-En las últimasa $n$ líneas vendrán los enteros $a_i$ que conforman el arreglo $A$.
+En las últimasa $n$ líneas vendrán los enteros $b_i$ que conforman el arreglo $B$.
 
 # Salida
 

@@ -1,6 +1,6 @@
 # Descripción
 
-¡Yosshua ha retado Carlos a un juego de memoria! Él le va a dar a Carlos una lista con muchas palabras y el reto es ver si puede recordar qué palabra está en cierta posición. Fácil, ¿no? ¡El problema es que va a hacer muchas preguntas de este tipo! Ayuda a Carlos a hacer un programa que le ayude a superar el reto. 
+¡Yosshua ha retado Carlos a un juego de memoria! Él le va a dar a Carlos una lista con muchas palabras y el reto es ver si puede recordar qué palabra está en cierta posición. Fácil, ¿no? ¡El problema es que va a hacer muchas preguntas de este tipo! Ayuda a Carlos a hacer un programa que le ayude a superar el reto.
 
 # Entrada
 
@@ -9,20 +9,20 @@ En las siguientes $n$ líneas, las $n$ palabras de la lista (como Yosshua es pro
 # Salida
 
 $p$ líneas, una por cada pregunta que hace Yosshua, conteniendo la palabra que corresponde a la pregunta
-número $p$. 
+número $p$.
 
 # Ejemplo
 
 ||examplefile
 sample
 ||description
-Tenemos la lista: crack (posición 0), bello (posición 1) y campeon (posición 2). Yosshua hace 5 preguntas. Las preguntas y su respuesta son: 0-crack, 1-bello, 2-campeon, 1-bello, 0-crack. 
+Tenemos la lista: crack (posición 0), bello (posición 1) y campeon (posición 2). Yosshua hace 5 preguntas. Las preguntas y su respuesta son: 0-crack, 1-bello, 2-campeon, 1-bello, 0-crack.
 ||end
 
 # Límites
 
-* $1 \leq n \leq 100000$
-* $1 \leq p \leq 1000$ 
+- $1 \leq n \leq 100000$
+- $1 \leq p \leq 1000$
 
 <details><summary>Checa la `plantilla.py`</summary>
 

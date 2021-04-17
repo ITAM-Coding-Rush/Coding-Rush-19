@@ -7,6 +7,7 @@ Pero Lorena no se podía distraer de sus estudios y te pide ayuda para crear el 
 # Entrada
 
 La entrada consistirá de tres líneas (cada número es una línea):
+
 1. Una cadena de texto que será la palabra a revisar.
 2. Una letra que será el inicio de la palabra.
 3. Una letra que será la que contaremos.
@@ -16,6 +17,7 @@ La entrada consistirá de tres líneas (cada número es una línea):
 # Salida
 
 El número de veces que aparece la letra indicada en la palabra.
+
 # Ejemplo
 
 ||examplefile

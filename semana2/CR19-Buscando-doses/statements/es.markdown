@@ -8,7 +8,7 @@ Una cadena de caracteres que representa el mensaje que escribió Pau.
 
 # Salida
 
-Si el número de doses que tecleó Pau es menor a 3 se considera un error accidental por lo que deberás imprimir: "Pau no tiene las uñas arregladas". 
+Si el número de doses que tecleó Pau es menor a 3 se considera un error accidental por lo que deberás imprimir: "Pau no tiene las uñas arregladas".
 
 Si el número de doses es mayor o igual a 3 deberás imprimir: "Pau tiene las uñas arregladas".
 
