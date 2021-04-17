@@ -7,25 +7,23 @@ A Pau le gusta arreglarse las uñas, pero cuando se las arregla le cuesta trabaj
 Una cadena de caracteres que representa el mensaje que escribió Pau.
 
 # Salida
+
 Si el número de doses que tecleó Pau es menor a 3 se considera un error accidental por lo que deberás imprimir: "Pau no tiene las uñas arregladas". 
 
 Si el número de doses es mayor o igual a 3 deberás imprimir: "Pau tiene las uñas arregladas".
 
-# Ejemplo
+# Ejemplos
 
-||input
-Hola, bienvenidos al Coding Ru2sh        
-||output
-Pau no tiene las uñas arregladas 
+||examplefile
+sample
 ||description
 Solo hay un 2 por lo que Pau no tiene la uñas arregladas
-||input
-Oye2, ¿sabes2 cuál e2s la liga de zoom de la clase2?  
-||output
-Pau tiene las uñas arregladas
+||examplefile
+sample2
 ||description
 Hay cuatro doses entonces sabes que Pau tiene las uñas arregladas
 ||end
+
 <details><summary>Checa la `plantilla.py`</summary>
 
 {{plantilla.py}}

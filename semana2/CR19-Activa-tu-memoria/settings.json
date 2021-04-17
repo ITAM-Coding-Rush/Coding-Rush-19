@@ -1,6 +1,6 @@
 {
-  "title": "Palabras dentro de palabras",
-  "source": "Coding Rush Primavera 2021 (Armando Limón)",
+  "title": "¡Activa tu memoria!",
+  "source": "Coding Rush Primavera 2021 (Carlos Delgado)",
 
   "limits": {
     "TimeLimit": 1000,
@@ -17,7 +17,7 @@
     }
   },
   "misc": {
-    "alias": "dummy-cr",
+    "alias": "CR19-Activa-tu-memoria",
     "visibility": "private",
     "languages": "all",
     "email_clarifications": 0,
