@@ -24,10 +24,10 @@ Dos enteros $S$, $k$ separados por un salto de línea. $S$ la suma máxima que p
 sample
 ||description
 Para este caso, $A = [10, 2, 3, 4, 9]$ y $B = [9, 5, 10, 1, 9]$.
-Si intercambiamos $a_2 = 2$ por $b_1 = 9$, $a_3 = 3$ por $b_3 = 10$ y $a_4 = 4$ por $b_5 = 5$, lograríamos formar el arreglo $A = [10, 9, 10, 9, 9]$ que suma $S = 47$ con un mínimo de operaciones de \$3·.
+Si intercambiamos $a_2 = 2$ por $b_1 = 9$, $a_3 = 3$ por $b_3 = 10$ y $a_4 = 4$ por $b_5 = 5$, lograríamos formar el arreglo $A = [10, 9, 10, 9, 9]$ que suma $S = 47$ con un mínimo de operaciones de $3$.
 ||end
 
 # Límites
 
-- $1 \leq n \ 10^{5}$
+- $1 \leq n \leq 10^{5}$
 - $0 \leq a_i, b_i \leq 10^{5}$

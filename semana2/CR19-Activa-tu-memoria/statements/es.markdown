@@ -4,7 +4,7 @@
 
 # Entrada
 
-En las siguientes $n$ líneas, las $n$ palabras de la lista (como Yosshua es programador, la primera palabra está en la posición 0). Después un número $p$, el número de preguntas que hará Yosshua. Finalmente, $p$ líneas, en cada una, la posición de la lista por la que pregunta Yosshua (se garantiza que es una posición válida).
+En la primera línea un entero $n$, el número de palabras que debe recordar Carlos. En las siguientes $n$ líneas, las $n$ palabras de la lista (como Yosshua es programador, la primera palabra está en la posición 0). Después un número $p$, el número de preguntas que hará Yosshua. Finalmente, $p$ líneas, en cada una, la posición de la lista por la que pregunta Yosshua (se garantiza que es una posición válida).
 
 # Salida
 
