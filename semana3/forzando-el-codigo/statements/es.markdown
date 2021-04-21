@@ -16,7 +16,7 @@ Una única línea con el número en binario representado con 1's y 0's.
 ||examplefile
 sample
 ||description
-El orden correcto es "oneonezero"
+El orden correcto es "unounocero"
 ||end
 
 # Límites
