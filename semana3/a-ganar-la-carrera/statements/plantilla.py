@@ -1,14 +1,15 @@
-n = int()
+n = int() # Leemos el número de mapas
 
-mapas =   *n
+mapas =   *n # Creamos una lista de tamaño n
 
 for i in :
-   = input()
+  mapas[i] = #Leemos el nombre del mapa
 
- = input()
+= input() # Nombre del mapa que queremos investigar
 
 m = 0
-while m <  and   != mapa:
+while m <  and   != mapa: 
+  # Mientras haya datos y la posicion actual no sea el nombre que me dieron
   m+=1
 
 if :
