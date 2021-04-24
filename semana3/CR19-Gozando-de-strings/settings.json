@@ -1,6 +1,6 @@
 {
-  "title": "A ganar la carrera",
-  "source": "Coding Rush Primavera 2021 ( José Luis Gutiérrez+ Yosshua Cisneros)",
+  "title": "Gozando de strings",
+  "source": "Coding Rush Primavera 2021 (Juan Carlos Sigler Priego)",
 
   "limits": {
     "TimeLimit": 1000,
@@ -17,7 +17,7 @@
     }
   },
   "misc": {
-    "alias": "dummy-cr",
+    "alias": "CR19-Gozando-de-strings",
     "visibility": "private",
     "languages": "all",
     "email_clarifications": 0,

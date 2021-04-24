@@ -9,7 +9,8 @@ Después $n$ líneas de tamaño $n$, cada una representando una fila del mapa.
 
 # Salida
 
-$n$ líneas con un "SI"  o un "NO" en cada una dependiendo de si vale la pena excavar en esa fila o no.
+$n$ líneas con un "SI" o un "NO" en cada una dependiendo de si vale la pena excavar en esa fila o no.
+
 # Ejemplo
 
 ||examplefile

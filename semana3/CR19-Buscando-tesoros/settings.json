@@ -1,6 +1,6 @@
 {
-  "title": "El loles",
-  "source": "Coding Rush Primavera 2021 (Bruno Vitte + Armando Limón y Lorena Mondragón)",
+  "title": "Buscando tesoros",
+  "source": "Coding Rush Primavera 2021 (Andrea Aguilar + Yosshua Cisneros)",
 
   "limits": {
     "TimeLimit": 1000,
@@ -17,7 +17,7 @@
     }
   },
   "misc": {
-    "alias": "dummy-cr",
+    "alias": "CR19-Buscando-tesoros",
     "visibility": "private",
     "languages": "all",
     "email_clarifications": 0,
