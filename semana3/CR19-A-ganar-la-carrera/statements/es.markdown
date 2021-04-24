@@ -13,8 +13,8 @@ Finalmente, el mapa que se jugará.
 
 # Salida
 
-Si es un mapa en el que practicó Brandon, se deberá escribir "Gana Brandon" (sin comillas).
-Si es un mapa en el que no practicó Brandon, se deberá escribir "Gana Josepe" (sin comillas).
+Si es un mapa en el que practicó Brandon, se deberá escribir "Brandon Gana" (sin comillas).
+Si es un mapa en el que no practicó Brandon, se deberá escribir "Josepe gana" (sin comillas).
 
 # Ejemplo
 
