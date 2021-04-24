@@ -27,4 +27,4 @@ sample
 # Límites
 
 - $1 \leq T \leq 100$
-- $1 \leq |s| \leq 1000$
+- $1 \leq |s| \leq 1,000$

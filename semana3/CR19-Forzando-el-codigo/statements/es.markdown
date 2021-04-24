@@ -21,4 +21,4 @@ El orden correcto es "unounocero"
 
 # Límites
 
-- $1 \leq Tamaño del código \leq 10000$
+- $1 \leq$ Tamaño del código $\leq 10,000$

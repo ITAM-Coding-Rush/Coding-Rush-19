@@ -26,11 +26,11 @@ La cantidad de golpes con **dos decimales de precisión** que aguanta el persona
 
 # Ejemplo
 
-||input
+||examplefile
 sample
 ||description
 Dada la fórmula podemos observar que Teemo cuenta con una vida efectiva de 3250 y Zed con una vida efectiva de 1925 por lo que en el match entre Teemo y Caitlyn, Teemo solo aguanta 17.57 golpes, redondeado a dos decimales, el match Teemo Samira, Teemo aguanta 17.11 golpes de Samira. Si hacemoos lo mismo con Zed, el match Zed vs Caitlyn, Zed unicamente resiste 10.41 golpes y finalmente Zed vs Samira, Zed resiste 10.13 golpes.
-||input
+||examplefile
 sample2
 ||description
 El match imposibe es debido a que Kindred es del equipo rival y no del equipo de Serra.

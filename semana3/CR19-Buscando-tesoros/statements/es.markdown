@@ -1,6 +1,6 @@
 # Descripción
 
-Andrea quiere encontrar tesoros en su jardín. Su abuela le dio un mapa de $nxn$ caracteres formado por $'.'$ y $'X'$. Los lugares donde hay tesoros se indican con una $'X'$. Ayuda a decirle si vale la pena cavar en ciertas filas de su jardin o no.
+Andrea quiere encontrar tesoros en su jardín. Su abuela le dio un mapa de $n \times n$ caracteres formado por '$.$' y '$X$'. Los lugares donde hay tesoros se indican con una '$X$'. Ayuda a decirle si vale la pena cavar en ciertas filas de su jardin o no.
 
 # Entrada
 
