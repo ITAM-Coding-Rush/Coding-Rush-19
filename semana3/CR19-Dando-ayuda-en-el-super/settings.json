@@ -18,7 +18,7 @@
   },
   "misc": {
     "alias": "CR19-Dando-ayuda-en-el-super",
-    "visibility": "public",
+    "visibility": "private",
     "languages": "all",
     "email_clarifications": 0,
     "admin-groups": ["Coding-Rush-2020"]
