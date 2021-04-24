@@ -21,8 +21,8 @@ Tenemos la lista: crack (posición 0), bello (posición 1) y campeon (posición 
 
 # Límites
 
-- $1 \leq n \leq 100000$
-- $1 \leq p \leq 1000$
+- $1 \leq n \leq 100,000$
+- $1 \leq p \leq 1,000$
 
 <details><summary>Checa la `plantilla.py`</summary>
 
