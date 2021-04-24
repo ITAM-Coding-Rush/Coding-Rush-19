@@ -22,7 +22,7 @@ Finalmente $M$ parejes en el siguiente orden: nombre del personaje del equipo de
 
 # Salida
 
-La cantidad de golpes con dos decimales que aguanta el personaje en cada enfrentamiento de los que te proporciona Serra, además en caso de no encuentrar un personaje en cualquiera de los equipos devolverás "Match imposible".
+La cantidad de golpes con **dos decimales de precisión** que aguanta el personaje en cada enfrentamiento de los que te proporciona Serra, además en caso de no encuentrar un personaje en cualquiera de los equipos devolverás "Match imposible".
 
 # Ejemplo
 
